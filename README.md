@@ -21,9 +21,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Resolving Long File Name Errors
 
 If you encounter an error related to long file names, you may need to enable long path support on your computer. Open the Command Prompt as an administrator and run the following command:
-
-        git config --system core.longpaths true  
-
+```
+git config --system core.longpaths true  
+```
 Make sure to open Command Prompt as an administrator.
 
 ## Learn More
