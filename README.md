@@ -1,6 +1,6 @@
 ### Travel Website
 
-#### Build With 
+#### Tech Stack Used To Build With 
 
 1. HTML
 2. CSS
